@@ -16,3 +16,7 @@
 - **Other Tools**: Git, AWS, Jupyter, VS Code
 
 - ---
+
+## 📂 Projects
+Here are some projects I’m working on (repos coming soon!):
+- 🚆 **Railway Track Crack Detection System** – Real-time sensor data processing and alerting
